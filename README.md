@@ -10,6 +10,10 @@ Fractal is a tool to help you **build** and **document** web component libraries
 
 **Need help?** We have an active and helpful community on [Fractal's Slack workspace](https://slack.fractal.build/) - join us there for support and tips.
 
+Hey! This project is working with BrowserStack for cross browser testing! Check them out at https://browserstack.com!
+
+[<img src="bs.png">](http://browserstack.com)
+
 ## Introduction
 
 Component (or pattern) libraries are a way of designing and building websites in a modular fashion, breaking up the UI into small, reusable chunks that can then later be assembled in a variety of ways to build anything from larger components right up to whole pages.
