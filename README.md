@@ -10,7 +10,7 @@ Fractal is a tool to help you **build** and **document** web component libraries
 
 **Need help?** We have an active and helpful community on [Fractal's Slack workspace](https://slack.fractal.build/) - join us there for support and tips.
 
-Hey! This project is working with BrowserStack for cross browser testing! Check them out at https://browserstack.com!
+**Hey! This project is working with BrowserStack for cross browser testing! Check them out at https://browserstack.com!**
 
 [<img src="bs.png">](http://browserstack.com)
 
